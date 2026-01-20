@@ -3,6 +3,14 @@
 ## 1. Project Overview
 This project applies the **TOPSIS** (Technique for Order of Preference by Similarity to Ideal Solution) method to rank various mutual funds based on multiple performance criteria. The goal is to identify the best fund that balances maximizing benefits (like returns) and minimizing costs (like risk or expense ratios).
 
+## 🚀 Live Demo
+Check out the live interactive web application here:
+**[TOPSIS Web Dashboard](https://pranavvaish-ucs654-topsis-102303194-app-yv3pkx.streamlit.app)**
+
+## 📦 Python Package
+This project is also published as a Python library on PyPI. You can view details or install it below:
+**[Topsis-Pranav-102303194 on PyPI](https://pypi.org/project/Topsis-Pranav-102303194/1.0.0/)**
+
 ## 2. Methodology
 
 The analysis follows the standard TOPSIS algorithm steps:
