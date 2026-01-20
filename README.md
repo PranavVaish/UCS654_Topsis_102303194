@@ -72,4 +72,4 @@ The bar chart below visualizes the TOPSIS scores. Higher bars indicate better pe
 To reproduce these results, execute the following command in your terminal:
 
 ```bash
-python topsis.py data.csv "1,1,1,2,1" "+,+,-,+,+" result.csv
+python Topsis.py data.csv "1,1,1,2,1" "+,+,-,+,+" result.csv
